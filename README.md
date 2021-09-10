@@ -48,7 +48,7 @@ Dentro do **README** de cada subpasta do projeto é detalhado como executar as a
 
 ```bash
 # Clone este repositório
-$ git clone
+$ git clone https://github.com/Alex1154/Go-Barber.git
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd rocketseat-gobarber/backend
 
