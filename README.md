@@ -69,10 +69,6 @@ Realizar os comandos acima para as demais pastas **[frontend e backend]**.
 4. Envie as suas alterações: `git push origin my-awesome-feature`
    > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
-## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
----
-
-Feito com horas em frente ao :computer: por [João Alexandre](https://www.linkedin.com/in/joaoalex1154/)
+Feito com horas em frente ao :computer: por [João Alexandre](https://www.linkedin.com/in/jo%C3%A3o-alexandre-3419691b7/)
